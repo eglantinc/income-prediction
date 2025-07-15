@@ -270,5 +270,57 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# VS Code settings
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Bytecode files
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+.env/
+.venv/
+venv/
+ENV/
+env/
+*.env
+*.venv
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE project files
+.idea/
+*.code-workspace
+
+# pytest cache
+.pytest_cache/
+
+# mypy, coverage, etc.
+.mypy_cache/
+coverage.*
+.cache
+*.cover
+*.log
+
+# Test output
+htmlcov/
+nosetests.xml
+coverage.xml
+*.prof
+
+# Jupyter Notebook metadata
+*.nbconvert.ipynb
+
+
 # MacOS
 .DS_Store
