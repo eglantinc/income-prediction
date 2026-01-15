@@ -118,10 +118,3 @@ Missing values are marked with `?`.
 
 ## 💬 Citation
 > INF5082 – TP1: ANALYSE EXPLORATOIRE ET MODÉLISATION DE DONNÉES – Income Dataset Component, Université du Québec à Montréal, Summer 2025.
-
----
-
-
-## 👤 Authors
-
-**Names**: Églantine Clervil and Yasmine Naas
